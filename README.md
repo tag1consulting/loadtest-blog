@@ -9,6 +9,8 @@ See src/main.rs:
 
 Run this load test with a number of users divisible by 100 if you want the exact distribution as described above.
 
+![angry-goose-white-background-42416907](https://user-images.githubusercontent.com/402892/115951679-4a3ce100-a4e2-11eb-8ebc-3ca8a7da1491.jpg)
+
 The following flags are recommended when running this load test:
 
 ```bash
