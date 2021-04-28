@@ -2,8 +2,6 @@
 
 A simple load test that primarily loads a single highly popular blog page from our website.
 
-![angry-goose-white-background-42416907](https://user-images.githubusercontent.com/402892/115951679-4a3ce100-a4e2-11eb-8ebc-3ca8a7da1491.jpg)
-
 See src/main.rs:
  - 95% of the users load a single high-interest blog;
  - 4% of the users load the front page (i.e. to learn more about Tag1);
